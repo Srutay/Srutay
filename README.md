@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Sruti - The Code Director.</h1>
-<h3 align="center">Welcome to my GitHub blockbuster! 🍿 In a world where bugs roam free, one developer embarks on a quest to conquer the infinite loop and bring balance to the codebase.</h3>
-<h2>Part time Computer Science undergraduate, full time sloth.</h2>
+<h1 align="center">Hello 👋, I'm Sruti.</h1>
+<h3 align="center"> In a world where bugs roam free, one developer embarks on a quest to conquer the infinite loop and bring balance to the codebase.</h3>
+<p align="center"> ✨ Part time Computer Science undergraduate, full time sloth. ✨</p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="coding">
 - 🌱 I’m currently learning **Node.js, Express.**
 
