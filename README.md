@@ -2,13 +2,13 @@
 <h3 align="center"> In a world where bugs roam free, one developer embarks on a quest to conquer the infinite loop and bring balance to the codebase.</h3>
 <p align="center"> ✨ Part time Computer Science undergraduate, full time sloth. ✨</p>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="coding">
-- 🌱 I’m currently learning **Node.js, Express.**
+🌱 I’m currently learning **Node.js, Express.**
 
-- 💬 Ask me about **Data Structures and Algorithms, Full Stack Development**
+💬 Ask me about **Data Structures and Algorithms, Full Stack Development**
 
-- 📫 How to reach me **th3srutii@gmail.com**
+📫 How to reach me **th3srutii@gmail.com**
 
-- ⚡ Fun fact **My code can sometimes be a comedy show.**
+⚡ Fun fact **My code can sometimes be a comedy show.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
